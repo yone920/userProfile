@@ -1,11 +1,13 @@
 {
 "userProfile": [
   {
-    "ID": 48,
-    "AGENCY": "DOITT",
-    "EEMROLE": "HHSC_WC_DOITT_WCEDS",
-    "USERGROUP": null,
+    "DATASOURCES": "ACS, DFTA, DHS, HRA, NYCHA, Documents"
+    "EEMROLE": "HHSC_WC_DOITT_WCEDS"
+    "ID": 48
+    "LIAISON_EMAIL": null
+    "LIAISON_NAME": null
     "SUMMARY": null
+    "USERGROUP": null
   }
 ]
 }
