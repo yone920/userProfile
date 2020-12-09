@@ -1,7 +1,7 @@
 {
 "userProfile": [
   {
-    "AGENCY": "DOITT"
+    "AGENCY": "DOITT",
     "DATASOURCES": "ACS, DFTA, DHS, HRA, NYCHA, Documents",
     "EEMROLE": "HHSC_WC_DOITT_WCEDS",
     "ID": 48,
