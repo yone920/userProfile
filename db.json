@@ -1,13 +1,13 @@
 {
 "userProfile": [
   {
-    "AGENCY": "DOITT"
-    "DATASOURCES": "ACS, DFTA, DHS, HRA, NYCHA, Documents"
-    "EEMROLE": "HHSC_WC_DOITT_WCEDS"
-    "ID": 48
-    "LIAISON_EMAIL": "sassi@nycopportunity.nyc.gov"
-    "LIAISON_NAME": "Shakil Assi"
-    "SUMMARY": "Worker Connect staff may access Worker Connect to help assist with application issues and test upcoming releases."
+    "AGENCY": "DOITT",
+    "DATASOURCES": "ACS, DFTA, DHS, HRA, NYCHA, Documents",
+    "EEMROLE": "HHSC_WC_DOITT_WCEDS",
+    "ID": 48,
+    "LIAISON_EMAIL": "sassi@nycopportunity.nyc.gov",
+    "LIAISON_NAME": "Shakil Assi",
+    "SUMMARY": "Worker Connect staff may access Worker Connect to help assist with application issues and test upcoming releases.",
     "USERGROUP": "Worker Connect Enterprise Data Solutions"
   }
 ]
